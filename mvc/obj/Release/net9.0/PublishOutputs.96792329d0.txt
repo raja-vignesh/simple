@@ -1,0 +1,7 @@
+C:\Users\Dhakshu\Documents\Azure204\simple\build\mvc.exe
+C:\Users\Dhakshu\Documents\Azure204\simple\build\appsettings.Development.json
+C:\Users\Dhakshu\Documents\Azure204\simple\build\appsettings.json
+C:\Users\Dhakshu\Documents\Azure204\simple\build\mvc.dll
+C:\Users\Dhakshu\Documents\Azure204\simple\build\mvc.deps.json
+C:\Users\Dhakshu\Documents\Azure204\simple\build\mvc.runtimeconfig.json
+C:\Users\Dhakshu\Documents\Azure204\simple\build\mvc.pdb
